@@ -6,6 +6,7 @@ Server-side application using microservices architecture to manage courses and s
 - Eureka (Eureka server and feign client)
 - Spring config server
 - Lombok
+
 ## API Reference
 
 ### Students
