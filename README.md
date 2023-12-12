@@ -1,6 +1,8 @@
 
 # Students and Courses Microservices
 
+[![Java CI with Maven](https://github.com/stefannloaiza/CourseStudent-Microservices/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/stefannloaiza/CourseStudent-Microservices/actions/workflows/maven.yml)
+
 Server-side application using microservices architecture to manage courses and students and their relationships. The application is made with Java 17 and has an implementation of:
 
 - Eureka (Eureka server and feign client)
